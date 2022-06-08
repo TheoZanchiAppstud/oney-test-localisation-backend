@@ -1,0 +1,10 @@
+{
+    "home": {
+        "addedFromLokalise": "Texte ajouté depuis le portail web Lokalise v3",
+        "addedFromLokalise2": "addedFromLokalise2",
+        "date": "Date: {{date}}",
+        "hello": "Hi from the lokalise web portal",
+        "localText": "Text found only in local resources",
+        "next": "Next step"
+    }
+}
